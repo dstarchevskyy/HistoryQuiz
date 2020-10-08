@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        android:id="@+id/ll_parent_item"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" xmlns:tools="http://schemas.android.com/tools">
+
+    <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_insert_before"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/insert_before"
+            style="@style/PrimaryButton"
+            android:visibility="gone"
+            tools:visibility="visible"
+            android:layout_gravity="right"/>
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+            <TextView
+                    android:id="@+id/tv_event_name"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="20sp"
+                    android:paddingTop="10dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingBottom="00dp"
+                    tools:text="Second World War" />
+
+            <TextView
+                    android:id="@+id/tv_event_year"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="14sp"
+                    android:paddingTop="0dp"
+                    android:paddingLeft="10dp"
+                    android:paddingRight="10dp"
+                    android:paddingBottom="00dp"
+                    android:textColor="@color/textColorWhite"
+                    tools:text="1939"
+                    android:textStyle="bold"
+                    android:background="@color/textColorShinyBlue"/>
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_gravity="center"
+                android:layout_marginRight="@dimen/activity_vertical_margin"
+                tools:ignore="RtlHardcoded">
+
+            <ImageView
+                    android:src="@android:drawable/arrow_up_float"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="@color/textColorRed"
+                    android:background="@color/textColorRed"
+                    tools:targetApi="lollipop"/>
+
+            <ImageView
+                    android:src="@android:drawable/arrow_down_float"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:backgroundTint="@color/textColorRed"
+                    android:background="@color/textColorRed"
+                    tools:ignore="UnusedAttribute"/>
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+    <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_insert_after"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/insert_after"
+            style="@style/PrimaryButton"
+            android:visibility="gone"
+            tools:visibility="visible"
+            android:layout_gravity="right" />
+
+</LinearLayout>

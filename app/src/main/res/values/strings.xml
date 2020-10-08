@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="after_start_you_gonna_sort">After clicking "Start" button you are going to sort historical events according in their chronologic order.</string>
+    <string name="app_name">Dates in History</string>
+    <string name="congratulations">Congratulations!!!</string>
+    <string name="correct_answer">Correct!</string>
+    <string name="correct_answer2">Super!</string>
+    <string name="correct_answer3">Good job!</string>
+    <string name="correct_text">Correct:&#160;</string>
+    <string name="exit">Exit</string>
+    <string name="fail_text">&#160;Failures:&#160;</string>
+    <string name="gdpr_agree">Yes, I agree</string>
+    <string name="gdpr_agree_text">Great. We hope you enjoy your personalized ad experience. If you ever change your mind, you can withdraw your consent by enabling \"Opt out of Ads Personalization\" under Settings/Google/Ads on your Android device and then restarting this app.</string>
+    <string name="gdpr_close">Close</string>
+    <string name="gdpr_disagree">No, thank you</string>
+    <string name="gdpr_disagree_text">Appodeal won`t collect your data for personalized advertising in this app. However, if you authorize Appodeal to personalize your advertising experience in a different app, we will collect your data in that other app.</string>
+    <string name="gdpr_main_text">%s personalizes your advertising experience using Appodeal. Appodeal and its partners may collect and process personal data such as device identifiers, location data, and other demographic and interest data to provide advertising experience tailored to you. By consenting to this improved ad experience, you`ll see ads that Appodeal and its partners believe are more relevant to you. Learn more.\n\nBy agreeing, you confirm that you are over the age of 16 and would like a personalized ad experience.</string>
+    <string name="gdpr_title">Personalize Your Ad Experience</string>
+    <string name="gdpr_understand">I understand that I will still see ads, but they may not be as relevant to my interests.</string>
+    <string name="insert_after">Insert After</string>
+    <string name="insert_before">Insert Before</string>
+    <string name="insert_now_this_event">Insert now this event:</string>
+    <string name="join_and_learn_dates_of_history_with_dates_of_history_app">"Join, play and learn dates of history with 'Dates of history' App: https://play.google.com/store/apps/details?id=com.droiddevstar.historyline"</string>
+    <string name="learn_more">Learn more.</string>
+    <string name="level">Level</string>
+    <string name="next_level">Next level:</string>
+    <string name="play">Play</string>
+    <string name="play_again">Play again</string>
+    <string name="share">Share</string>
+    <string name="share_via">"Share via:"</string>
+    <string name="sorry">Sorry…</string>
+    <string name="start">Start</string>
+    <string name="wrong_answer">Wrong answer!</string>
+    <string name="wrong_answer2">No!</string>
+    <string name="you_lose">You lose…</string>
+    <string name="you_win">You have won!</string>
+    <string name="rate_dialog_title">Rate this app</string>
+    <string name="rate_dialog_message">If you enjoy playing this app, would you mind taking a moment to rate it? It won\'t take more than a minute. Thanks for your support!</string>
+    <string name="rate_dialog_ok">Rate It Now</string>
+    <string name="rate_dialog_cancel">Remind Me Later</string>
+    <string name="rate_dialog_no">No, Thanks</string>
+    <string name="rate">Rate</string>
+    <string name="settings">Settings</string>
+    <string name="language">Language</string>
+    <string name="english">English</string>
+    <string name="russian">Russian</string>
+    <string name="music_of_off">Music On/Off</string>
+    <string name="search">Search</string>
+
+</resources>

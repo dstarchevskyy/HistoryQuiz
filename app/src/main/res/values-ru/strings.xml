@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="after_start_you_gonna_sort">После нажатия кнопки "Старт" Вам будет предложено отсортировать исторические события в хронологическом порядке.</string>
+    <string name="app_name">Даты Истории</string>
+    <string name="congratulations">Поздравляю!!!</string>
+    <string name="correct_answer">Првильно!</string>
+    <string name="correct_answer2">Отлично!</string>
+    <string name="correct_answer3">Так держать!</string>
+    <string name="correct_text">Верных:&#160;</string>
+    <string name="exit">Выход</string>
+    <string name="fail_text">&#160;Ошибок:&#160;</string>
+    <string name="gdpr_agree">Да, я согласен</string>
+    <string name="gdpr_agree_text">Отлично. Мы надеемся, что Вам понравится ваша персонализированная реклама. Если Вы когда-либо передумаете, Вы можете отозвать свое согласие, включив пункт \"Отключить персонализацию рекламы\" в разделе /Настройки/Google/Реклама на Вашем устройстве Android, а затем перезапустив это приложение</string>
+    <string name="gdpr_close">Закрыть</string>
+    <string name="gdpr_disagree">Нет, спасибо</string>
+    <string name="gdpr_disagree_text">Appodeal не будет собирать Ваши данные для персонализированной рекламы в этом приложении. Однако если Вы разрешите Appodeal персонализировать вашу рекламу в другом приложении, Ваши данные будут получены в другом приложении.</string>
+    <string name="gdpr_main_text">%s настройте Вашу рекламу с помощью Appodeal. Appodeal и его партнеры могут собирать и обрабатывать персональные данные, такие как идентификационные номера устройств, данные о местонахождении и другие демографические данные и данные о Ваших инетересах, чтобы предоставить рекламу специально для Вас. Согласившись с этим улучшенным рекламным интерфейсом, вы увидите рекламу, которая, по мнению Appodeal, и ее партнеров более актуальна для Вас. Узнайте больше. \n\nСогласившись, вы подтверждаете, что вы старше 16 лет и хотели бы получить персонализированную рекламу.</string>
+    <string name="gdpr_title">Настройте свою рекламу</string>
+    <string name="gdpr_understand">Я понимаю, что все равно буду видеть рекламу, но она может не соответствовать моим интересам.</string>
+    <string name="insert_after">Вставить после</string>
+    <string name="insert_before">Вставить перед</string>
+    <string name="insert_now_this_event">Куда вставить это событие:</string>
+    <string name="join_and_learn_dates_of_history_with_dates_of_history_app">Присоединяйся, играй и учи даты истории с приложением https://play.google.com/store/apps/details?id=com.droiddevstar.historyline</string>
+    <string name="learn_more">Узнайте больше.</string>
+    <string name="level">Уровень</string>
+    <string name="next_level">Следующий уровень:</string>
+    <string name="play">Играть</string>
+    <string name="play_again">Играть еще раз</string>
+    <string name="share">Поделиться</string>
+    <string name="share_via">"Поделиться с помощью приложения:"</string>
+    <string name="sorry">Очень жаль…</string>
+    <string name="start">Старт</string>
+    <string name="wrong_answer">Ответ неверный!</string>
+    <string name="wrong_answer2">Нет!</string>
+    <string name="you_lose">Вы проиграли…</string>
+    <string name="you_win">Вы выиграли!</string>
+
+    <string name="rate_dialog_title">Оцените приложение</string>
+    <string name="rate_dialog_message">Если Вам понравилось, будьте тек добры, поставьте оценку? Это отнимет у Вас не больше минуты. Спасибо за Вашу поддержку!</string>
+    <string name="rate_dialog_ok">Оценить сейчас</string>
+    <string name="rate_dialog_cancel">Напомнить позже</string>
+    <string name="rate_dialog_no">Простите, но нет</string>
+    <string name="rate">Оценить</string>
+    <string name="settings">Настройки</string>
+    <string name="language">Язык</string>
+    <string name="english">Английский</string>
+    <string name="russian">Русский</string>
+    <string name="music_of_off">Музыка Вкл./Выкл.</string>
+
+</resources>

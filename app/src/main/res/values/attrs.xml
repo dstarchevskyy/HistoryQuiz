@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="button_states">
+        <attr name="state_ok" format="boolean" />
+        <attr name="state_fail" format="boolean" />
+    </declare-styleable>
+</resources>

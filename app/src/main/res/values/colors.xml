@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <color name="colorPrimary">#ff3b546d</color>
+    <color name="colorPrimaryDark">#ff2f4357</color>
+    <color name="colorAccent">#ffff5252</color>
+
+    <color name="snackbarColorAlertBackground">#ffff5555</color>
+    <color name="snackbarColorAlertText">#ffffffff</color>
+    <color name="snackbarColorAlertAction">#ffffffff</color>
+    <color name="snackbarColorInfoBackground">#ffffffff</color>
+    <color name="snackbarColorInfoText">#ff000000</color>
+
+    <color name="fabColorFirstNormal">#ffff5252</color>
+
+    <color name="fabColorSecondPressed">#ff1172c3</color>
+
+    <color name="tabLayoutColorNormal">#ff243441</color>
+    <color name="tabLayoutColorSelected">#ffffffff</color>
+    <color name="tabLayoutColorIndicator">#ffff5555</color>
+
+    <color name="textColorWhite">#ffffffff</color>
+    <color name="textColorRed">#ffff5555</color>
+    <color name="textColorLightGray">#ffc7c7c7</color>
+    <color name="textColorGray">#ffa9a9a9</color>
+    <color name="textColorDark">#ff424242</color>
+    <color name="textColorLightBlue">#ff4076a3</color>
+    <color name="textColorBlueGray">#ff44627a</color>
+    <color name="textColorLightShinyBlue">#ff768899</color>
+    <color name="textColorShinyBlue">#ff549ed1</color>
+
+    <color name="textColorPriceGreen">#ff62ad5e</color>
+    <color name="textColorPriceRed">#ffff5555</color>
+
+    <color name="shadowStartColor">#55333333</color>
+    <color name="dividerColor">#ffe5e5e5</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="black_overlay">#BF000000</color>
+    <color name="colorBlackTransparent">#B31B2828</color>
+
+    <color name="main_background">#FAFAFA</color>
+    <color name="option_text_pressed">#000000</color>
+    <color name="option_text">#080808</color>
+
+    <color name="default_text_view_text_color">#4E4E4E</color>
+
+    <color name="switcherTrackDisabled">#AFAFAF</color>
+    <color name="switcherTrackEnabled">#B3C3C9</color>
+
+    <color name="colorFontPrimary">@color/option_text_pressed</color>
+    <color name="colorTextViewPrimary">@color/default_text_view_text_color</color>
+    <color name="colorFontHint">@color/option_text_pressed</color>
+
+    <color name="pinViewColor">@color/textColorShinyBlue</color>
+    <color name="submitButtonColor">@color/textColorBlueGray</color>
+
+    <color name="colorNavigationBar">@color/colorPrimary</color>
+    <color name="colorUnselectedTabText">@color/tabLayoutColorNormal</color>
+    <color name="secondaryTextColor">@color/textColorGray</color>
+    <color name="primaryTextColor">@color/textColorDark</color>
+
+    <color name="colorFooterBackground">@color/textColorGray</color>
+
+    <color name="textColorResendCodeButton">@color/buttonCheckTextColor</color>
+    <color name="colorHeader">#737373</color>
+    <color name="buttonCheckTextColor">#4A6A84</color>
+    <color name="colorAmountsFontGreen">@color/textColorPriceGreen</color>
+    <color name="textColorHintLogin">@color/textColorGray</color>
+    <color name="forgotPasswordButtonText">@color/textColorLightShinyBlue</color>
+    <color name="versionTextColor">@color/colorBlackTransparent</color>
+    <color name="selectedMenuItemTextColor">@color/textColorBlueGray</color>
+    <color name="newItemButtonTextColor">@color/textColorBlueGray</color>
+
+
+    <color name="popupItemTextColor">@color/colorFontPrimary</color>
+
+    <color name="switcherThumb">@color/colorPrimaryDark</color>
+
+    <color name="ef_colorPrimary" tools:override="true">#3F51B5</color>
+    <color name="ef_colorPrimaryDark" tools:override="true">#303F9F</color>
+    <color name="ef_colorAccent" tools:override="true">#FF4081</color>
+    <color name="ef_colorTextPrimary" tools:override="true">#FFFFFF</color>
+
+    <color name="ef_white">#FFFFFF</color>
+    <color name="ef_grey">#9E9E9E</color>
+    <color name="ef_black_alpha_50">#80000000</color>
+    <color name="ef_black_alpha_aa">#AA000000</color>
+    <color name="ef_teal">#009688</color>
+    <color name="user_name_on_history">@color/textColorBlueGray</color>
+
+    <color name="radio_button_color_selected">@color/colorPrimary</color>
+    <color name="link_text_color">@color/textColorBlueGray</color>
+    <color name="yellow">#F4EC8F</color>
+</resources>
